@@ -1,0 +1,395 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media  (max-width: 575.98px) {
+	header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+@media (min-width: 1200px) and (max-width: 1280px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+@media (min-width: 1281px) and (max-width: 1366px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+@media (min-width: 1367px) and (max-width: 1440px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+@media (min-width: 1441px) and (max-width: 1600px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+@media (min-width: 1601px) and (max-width: 1680px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+@media (min-width: 1681px) and (max-width: 1920px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {
+    header
+    .left_content img
+    .left_content h3
+    .left_content
+    .right_content
+    .navbar
+    .navbar ul li
+    .navbar ul li a
+    .navbar ul li a:hover
+    .banner_area
+    .titlebar
+    .titlebar h2
+    .service_one
+    .service_one img
+    .service_one:hover
+    .banner_area2
+    .banner_area2 h1
+    .banner_area2 p
+    .button
+    .button:hover
+    .container2
+    input
+    textarea
+    button
+    .banner_area3
+    .one
+    .two
+    .three
+    .header2
+    i
+    i:hover
+    .btn_icon i
+}
